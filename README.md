@@ -2,7 +2,7 @@
 
 
 ## Introduce myself
-- 👋 Hi, I’m @YoonhaJ
+- 👋 Hi, I’m Lily
 - 👀 I’m interested in UI/UX design
 - 🌱 I’m currently learning web development
 - 🏫I'm a college student
